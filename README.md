@@ -2,16 +2,16 @@
 
 <div>
 <!-- HITS로 방문자 수 -->
-<a href="https://github.com/wlgns5510/">
+<a href="https://github.com/whddnjs3340/">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyunju&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
-<img src="https://img.shields.io/github/followers/wlgns5510?style=social"/>
+<img src="https://img.shields.io/github/followers/whddnjs3340?style=social"/>
 </div>
 
 !Anurag's GitHub stats
 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns5510)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs3340)
 
 
 <hr>
@@ -81,4 +81,5 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlgns5510&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+5510&layout=compact)
