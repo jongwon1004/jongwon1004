@@ -18,10 +18,10 @@
 
 <div align=left>
 <!--
-<a href="https://github.com/wlgns5510">
+<a href="https://github.com/whddnjs3340">
 <img src="https://img.shields.io/badge/zooland-EC5990?style=for-the-badge&logo=zooland&logoColor=white"/>
 </a>
-<a href="https://github.com/wlgns5510">
+<a href="https://github.com/whddnjs3340">
 <img src="https://img.shields.io/badge/Filmlab-F16728?style=for-the-badge&logo=Filmlab&logoColor=white"/>
 </a>
 -->
