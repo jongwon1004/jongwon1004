@@ -58,6 +58,8 @@
 
 <!-- tool -->
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
+  
+ <img src="https://img.shields.io/badge/InteliJ IDE-2C2255?style=for-the-badge&logo=InteliJ IDE&logoColor=white"/>
 
 <br>
 <!-- 협업 -->
