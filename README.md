@@ -16,16 +16,6 @@
 
 <hr>
 
-
-
-
-<div align=left>
-<h3>📍 Project </h3>
-<a href="https://github.com/wlgns5510/spotmate">
-<img src="https://img.shields.io/badge/SPOTMATE-4454A1?style=for-the-badge&logo=SPOTMATE&logoColor=white"/>
-</a>
-</div>
-
 <div align=left>
 <!--
 <a href="https://github.com/wlgns5510">
@@ -80,6 +70,3 @@
 </div>
 
 <hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-whddnjs3340&layout=compact)
