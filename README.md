@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/followers/whddnjs3340?style=social"/>
 </div>
 
-!Anurag's GitHub stats
+jongwon's GitHub stats
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs3340)
