@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - 💻  **I'm studying in Osaka, Japan
+ - 💻    **I'm studying in Osaka, Japan
 
  - 🤩  **Dobby is free!
 
