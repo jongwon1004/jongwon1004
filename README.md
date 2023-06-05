@@ -8,10 +8,7 @@
 <img src="https://img.shields.io/github/followers/whddnjs3340?style=social"/>
 </div>
 
-jongwon's GitHub stats
-
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs3340)
+![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon1004&show_icons=true&theme=tokyonight)
 
 
 <hr>
