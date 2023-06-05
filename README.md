@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ - 💻  **I'm studying in Osaka, Japan
+
+ - 🤩  **Dobby is free!
+
 <div>
 <!-- HITS로 방문자 수 -->
 <a href="https://github.com/jongwon3340/">
