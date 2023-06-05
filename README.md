@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/github/followers/whddnjs3340?style=social"/>
 </div>
 
-![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon1004&show_icons=true&theme=tokyonight)
+<!-- ![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon1004&show_icons=true&theme=tokyonight) -->
 
 
 <hr>
