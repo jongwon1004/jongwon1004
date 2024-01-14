@@ -3,7 +3,7 @@
  - 💻    **I'm studying in Osaka, Japan**
 
 <div>
-![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon1004&show_icons=true&theme=radical) 
+
 
 <hr>
 
