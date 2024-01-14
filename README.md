@@ -4,7 +4,7 @@
 
 <div>
 
-![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon1004&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon1004)](https://github.com/anuraghazra/github-readme-stats)
+![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon1004&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon1004)](https://github.com/jongwon1004/github-readme-stats)
 
 
 <hr>
