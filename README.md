@@ -2,8 +2,9 @@
 
 ## 🚀 About Me
 
-I am aiming to become a backend web developer and I firmly believe that "effort never betrays."  
-With this belief, I am working hard every day.
+- I am a Korean currently studying in Japan. こんにちは（笑）
+- I am aiming to become a backend web developer and I firmly believe that "effort never betrays."  
+  With this belief, I am working hard every day.
 
 ## 🛠️ Technologies & Tools
 
